@@ -1,0 +1,1 @@
+A fun example of object-oriented Python programming. My Python code for an Asteroids type space shooter game. Copy and paste the Python code into the CodeSkulptor editor at http://www.codeskulptor.org/ to run.
